@@ -1,0 +1,11 @@
+{
+  "name": "vadim/hexlet-php",
+  "authors": [
+    {
+      "name": "Vadim Belinovich",
+      "email": "vadimbelinovich@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {}
+}
